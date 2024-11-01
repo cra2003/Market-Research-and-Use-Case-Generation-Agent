@@ -1,0 +1,24 @@
+# Streamlit for the app interface
+streamlit==1.26.0
+
+# CrewAI for agent-based workflows
+crew-ai==0.1.0
+
+# LangChain OpenAI for Azure integration (verify latest version on Azure docs if needed)
+langchain-openai==0.2.4
+
+# CrewAI tools for web scraping and API integrations
+crewai-tools==0.1.0
+
+# dotenv to load environment variables
+python-dotenv==1.0.0
+
+# Required for PDF generation and handling markdown
+fpdf==1.7.2
+markdown2==2.4.2
+
+# For OpenAI's Azure Chat API
+openai==0.27.8
+
+# Optional - for using Serper API
+serper==1.1.2
